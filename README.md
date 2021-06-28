@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## "A Few words about myself"
 
-You can use the [editor on GitHub](https://github.com/Nhiem/trannhiem.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I grow up in the middle of Vietnam, my academic career makes me love who I am, and my life has been amazing. By doing research, I can contribute a little of my works to our society. As a kid, I’m already passionate about engineering design and building projects for solving certain issues of our daily life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My Academic Journey
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
